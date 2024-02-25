@@ -1,3 +1,8 @@
+"""
+All of this code has been adapted from https://github.com/MIC-DKFZ/dynamic-network-architectures/
+"""
+
+
 import torch
 from torch import nn
 import numpy as np
